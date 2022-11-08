@@ -1,0 +1,29 @@
+:root {
+  /* fonts */
+  --font-urbanist: Urbanist;
+
+  /* font sizes */
+  --font-size-sm: 15px;
+  --font-size-base: 20px;
+  --font-size-lg: 30px;
+  --font-size-xl: 35px;
+  --font-size-2xl: 50px;
+
+  /* Colors */
+  --color-gray: #100b0a;
+  --color-white: #fff;
+  --color-brown: #e72835;
+
+  /* Gaps */
+  --gap-0: 0px;
+  --gap-md: 10px;
+  --gap-lg: 30px;
+
+  /* Paddings */
+  --padding-2xs: 10px;
+  --padding-xs: 11px;
+  --padding-sm: 13px;
+  --padding-md: 15px;
+  --padding-lg: 18px;
+  --padding-xl: 40px;
+}
